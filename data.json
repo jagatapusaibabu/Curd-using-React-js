@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "name": "vivo v23",
+      "price": 20000,
+      "category": "mobiles",
+      "id": "2"
+    }
+  ]
+}
