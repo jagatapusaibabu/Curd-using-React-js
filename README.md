@@ -1,12 +1,61 @@
-# React + Vite
+📌 React CRUD App
+🚀 A simple CRUD (Create, Read, Update, Delete) application built with React.js and Bootstrap for managing products dynamically.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+(Replace with actual screenshot of your app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📖 Features
+✅ Add, Edit, and Delete Products
+✅ Dynamic Form with Validations
+✅ Beautiful UI with Animations & Hover Effects
+✅ Fully Responsive with Bootstrap
+✅ Modular Code Structure
 
-## Expanding the ESLint configuration
+🛠 Tech Stack
+Frontend: React.js, Bootstrap
+State Management: useState, useEffect
+API Handling: Axios (or Fetch API)
+🚀 Installation & Setup
+1️⃣ Clone the Repository
+bash
+Copy
+Edit
+git clone https://github.com/your-username/react-crud-app.git
+cd react-crud-app
+2️⃣ Install Dependencies
+bash
+Copy
+Edit
+npm install
+3️⃣ Start the Application
+bash
+Copy
+Edit
+npm start
+Your app will run at: http://localhost:3000
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📂 Project Structure
+bash
+Copy
+Edit
+/react-crud-app
+│── /src
+│   │── /components
+│   │   │── ProductList.js
+│   │   │── ProductForm.js
+│   │── App.js
+│   │── index.js
+│── package.json
+│── README.md
+│── styles.css
+🎨 UI Preview
+🚀 Live Demo: Add Link Here (If hosted)
+
+
+🤝 Contributing
+🙌 Contributions are always welcome! If you find any bugs or want to add new features, feel free to open an issue or create a pull request.
+
+📜 License
+This project is Open Source under the MIT License.
+
+🔹 Give it a ⭐ on GitHub if you like it! 🚀
