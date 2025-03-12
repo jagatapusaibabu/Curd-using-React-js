@@ -1,10 +1,25 @@
 {
-  "products": [
-    {
-      "name": "vivo v23",
-      "price": 20000,
-      "category": "mobiles",
-      "id": "2"
-    }
+  "products":[
+    { "id": 1, "name": "iPhone 14", "price": 79999, "category": "mobiles" },
+    { "id": 2, "name": "Samsung Galaxy S23", "price": 74999, "category": "mobiles" },
+    { "id": 3, "name": "OnePlus 11", "price": 56999, "category": "mobiles" },
+    { "id": 4, "name": "Google Pixel 7", "price": 67999, "category": "mobiles" },
+    { "id": 5, "name": "MacBook Air M2", "price": 114999, "category": "laptops" },
+    { "id": 6, "name": "Dell XPS 13", "price": 98999, "category": "laptops" },
+    { "id": 7, "name": "HP Spectre x360", "price": 87999, "category": "laptops" },
+    { "id": 8, "name": "Asus ROG Zephyrus", "price": 119999, "category": "laptops" },
+    { "id": 9, "name": "Sony Bravia 55-inch", "price": 79999, "category": "tv" },
+    { "id": 10, "name": "Samsung 4K QLED", "price": 89999, "category": "tv" },
+    { "id": 11, "name": "LG OLED C2", "price": 124999, "category": "tv" },
+    { "id": 12, "name": "TCL 65-inch 4K", "price": 65999, "category": "tv" },
+    { "id": 13, "name": "Xiaomi Mi 11 Ultra", "price": 69999, "category": "mobiles" },
+    { "id": 14, "name": "Realme GT Neo 3", "price": 36999, "category": "mobiles" },
+    { "id": 15, "name": "Lenovo Legion 5", "price": 84999, "category": "laptops" },
+    { "id": 16, "name": "Acer Predator Helios", "price": 99999, "category": "laptops" },
+    { "id": 17, "name": "Motorola Edge 30", "price": 32999, "category": "mobiles" },
+    { "id": 18, "name": "Vivo X80 Pro", "price": 79999, "category": "mobiles" },
+    { "id": 19, "name": "Samsung Frame TV", "price": 105999, "category": "tv" },
+    { "id": 20, "name": "LG Nanocell TV", "price": 74999, "category": "tv" }
   ]
+  
 }
